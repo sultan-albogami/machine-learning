@@ -1,6 +1,6 @@
 # Machine Learning
 
-![Inline docs](https://img.shields.io/github/license/sultan-albogami/machine-learning/?color=Maroon)
+![Inline docs](https://img.shields.io/github/license/sultan-albogami/machine-learning?color=Maroon)
 ![Inline docs](https://img.shields.io/github/contributors/sultan-albogami/machine-learning)
 ![Inline docs](https://img.shields.io/github/last-commit//sultan-albogami/machine-learning)
 ![Inline docs](https://img.shields.io/github/stars/sultan-albogami/machine-learning)
@@ -21,5 +21,5 @@
 ## Contributors
 
    * Primary:
-       - [Sultan Al Bogami](https://github.com/sultan-albogami)
+       - [Sultan Albogami](https://github.com/sultan-albogami)
 
