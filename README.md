@@ -2,7 +2,7 @@
 
 ![Inline docs](https://img.shields.io/github/license/sultan-albogami/machine-learning?color=Maroon)
 ![Inline docs](https://img.shields.io/github/contributors/sultan-albogami/machine-learning)
-![Inline docs](https://img.shields.io/github/last-commit//sultan-albogami/machine-learning)
+![Inline docs](https://img.shields.io/github/last-commit/sultan-albogami/machine-learning)
 ![Inline docs](https://img.shields.io/github/stars/sultan-albogami/machine-learning)
 
 ## Table of Contents
